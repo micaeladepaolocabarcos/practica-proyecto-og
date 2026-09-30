@@ -51,7 +51,7 @@ El CSV no está incluido en el repositorio porque supera los 50 MB. Para reprodu
 ## Agregaciones de negocio
 
 1. **Evolución anual de la producción:** el petróleo no convencional pasó de ~15 mil m³ (2006) a ~29,4 millones de m³ (2025); los pozos activos se multiplicaron por más de 20.
-2. **Rendimiento por formación:** Vaca Muerta es la más productiva por pozo, tanto en petróleo (~914 m³/mes) como en gas.
+2. **Rendimiento por formación:** Vaca Muerta es la más productiva por pozo, tanto en petróleo como en gas.
 3. **Concentración por empresa:** YPF aporta el 58% del petróleo no convencional histórico; las 5 primeras empresas, más del 84%.
 
 ## Herramientas
