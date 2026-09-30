@@ -14,7 +14,7 @@ Práctica del curso **Data Science I (Coderhouse)**. El objetivo es construir un
 | Unidad de observación | producción de un pozo en un mes |
 | Unidades | `prod_pet` y `prod_agua` en m³; `prod_gas` en miles de m³ |
 
-**El CSV no está incluido en el repositorio** porque supera los 50 MB. Para reproducir el análisis, descargarlo desde el link de la fuente y actualizar la variable `RUTA_CSV` en el notebook.
+El CSV no está incluido en el repositorio porque supera los 50 MB. Para reproducir el análisis, descargarlo desde el link de la fuente y actualizar la variable `RUTA_CSV` en el notebook.
 
 ## Contenido del repositorio
 
