@@ -8,7 +8,7 @@ Práctica del curso Data Science I (Coderhouse). El objetivo es construir un flu
 |---|---|
 | Dataset | Producción de Pozos de Gas y Petróleo No Convencional |
 | Fuente | Secretaría de Energía de la Nación, vía [datos.gob.ar](https://datos.gob.ar/dataset/energia-produccion-petroleo-gas-por-pozo-capitulo-iv) |
-| Archivo | `produccion-de-pozos-de-gas-y-petrleo-no-convencional.csv` |
+| Archivo | `produccion-de-pozos-de-gas-y-petroleo-no-convencional.csv` |
 | Tamaño | ~145 MB, 421.022 filas × 40 columnas |
 | Período | enero 2006 a julio 2026 |
 | Unidad de observación | producción de un pozo en un mes |
