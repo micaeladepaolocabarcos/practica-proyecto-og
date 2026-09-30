@@ -18,7 +18,7 @@ El CSV no está incluido en el repositorio porque supera los 50 MB. Para reprodu
 
 ## Contenido del repositorio
 
-- `limpieza_eda_pozos_no_convencionales.ipynb`: notebook con diagnóstico, limpieza y agregaciones.
+- `U6 - Limpieza y Análisis Exploratorio de un Dataset Real.ipynb`: notebook con diagnóstico, limpieza y agregaciones.
 - `README.md`: este archivo.
 
 ## Diagnóstico inicial
