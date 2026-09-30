@@ -20,7 +20,7 @@ El CSV no está incluido en el repositorio porque supera los 50 MB. Para reprodu
 
 ## Contenido del repositorio
 
-- `/U6_Limpieza_y_Análisis_Exploratorio_de_un_Dataset_Real.ipynb`: notebook con diagnóstico, limpieza y agregaciones.
+- `U6_Limpieza_y_Análisis_Exploratorio_de_un_Dataset_Real.ipynb`: notebook con diagnóstico, limpieza y agregaciones.
 - `README.md`: este archivo.
 
 ## Diagnóstico inicial
