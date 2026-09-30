@@ -20,7 +20,6 @@ Práctica del curso **Data Science I (Coderhouse)**. El objetivo es construir un
 
 - `limpieza_eda_pozos_no_convencionales.ipynb`: notebook con diagnóstico, limpieza y agregaciones.
 - `README.md`: este archivo.
-- `.gitignore`: excluye archivos CSV para no subir el dataset.
 
 ## Diagnóstico inicial
 
