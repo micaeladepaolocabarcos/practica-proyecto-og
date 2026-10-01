@@ -1,7 +1,5 @@
 # Limpieza y Análisis Exploratorio: Producción de Pozos No Convencionales (Vaca Muerta, Argentina)
 
-Práctica del curso Data Science I (Coderhouse). 
-
 El objetivo es construir un flujo de limpieza reproducible con Pandas sobre datos reales y responder preguntas de negocio mediante agrupaciones.
 
 ## Origen de los datos
